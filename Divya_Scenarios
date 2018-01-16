@@ -1,0 +1,6 @@
+TC1:Verify whether home page is displayed or not when we enter valid userid and valid password
+TC2:Verify working of forget password field when we enter invalid username or password.
+TC3:Check whether user is able to add an admin by covering all functionalities.
+TC4:Verify whether user is able edit in CMS Pages module.
+TC5:When we click enable button under car module in accounts tab a pop up is displayed and handled.
+TC6:When we click on view invoice in Bookings module,verify whether download invoice module is working or not.
