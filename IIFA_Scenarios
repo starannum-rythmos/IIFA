@@ -1,0 +1,39 @@
+TC1:Verify whether home page is displayed or not when we enter valid userid and valid password.
+TC2:Verify whether user is able to add an admin in accounts tab.
+TC3:Verify whether user is able edit in CMS Pages module
+TC4:Verify whether download invoice module is working or not,When we are clicking on view invoice in Bookings module.
+TC5:Verify whether login page is displayed or not when we click on logout button.
+
+TC1:
+
+Given : user logged into the application.
+When  : we try to login with valid credentials
+Then  : verify we should able to login successfully and home page is displayed
+
+
+TC2:
+
+Given : user logged into the application and clicked accounts tab
+When  : we try to add an admin in accounts tab
+Then  : verify we should able an admin and added admin's page is displayed
+
+
+TC3:
+
+Given : user logged into the application and clicked CMS Page tab
+When  : we try to edit in CMS Page module
+Then  : verify whether edit button in CMS Page module is working 
+
+
+TC4:
+
+Given : User logged into the application and clicked bookings module
+When  : we try to click view invoice in bookings module and click on download invoice
+Then  : verify we should able to download the invoice
+
+
+TC5:
+
+Given : User logged into the application
+When  : we try to click on logout button
+Then  : verify we should able to logout successfully and home page is displayed
