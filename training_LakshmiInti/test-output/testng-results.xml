@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69148" started-at="2018-02-06T06:45:28Z" finished-at="2018-02-06T06:46:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="69148" started-at="2018-02-06T06:45:28Z" finished-at="2018-02-06T06:46:37Z">
+      <class name="com.phptravelsadmin.testcases.VerifyCreationOfAdmin">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.phptravelsadmin.testcases.VerifyCreationOfAdmin@523884b2]" name="start" is-config="true" duration-ms="22407" started-at="2018-02-06T12:15:28Z" finished-at="2018-02-06T12:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="verifyCreation()[pri:0, instance:com.phptravelsadmin.testcases.VerifyCreationOfAdmin@523884b2]" name="verifyCreation" duration-ms="44540" started-at="2018-02-06T12:15:51Z" finished-at="2018-02-06T12:16:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreation -->
+        <test-method status="PASS" signature="shutdown()[pri:0, instance:com.phptravelsadmin.testcases.VerifyCreationOfAdmin@523884b2]" name="shutdown" is-config="true" duration-ms="2158" started-at="2018-02-06T12:16:35Z" finished-at="2018-02-06T12:16:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- com.phptravelsadmin.testcases.VerifyCreationOfAdmin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
