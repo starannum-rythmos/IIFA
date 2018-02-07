@@ -1,5 +1,0 @@
-1.Check that if we click on search button does it redirecting to the corresponding page or not.
-2.Verify if we click on booking tab does it showing corresponding fields displaying or not.
-3.Validating all the required fields.
-4.Verify whether origin-destination is traversed or not.
-5.Validating exact origin and destination.
